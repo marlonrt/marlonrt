@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=25&pause=700&color=1BC5FF&center=true&width=435&lines=Hello+there%2C+my+name+is+Marlon!;I+am+a+mobile+developer)](https://git.io/typing-svg)
 
-I'm a mobile developer with a passion for creating great applications. My recent focus latest certifications has been on native Android development (Jetpack Compose, MVVM, Dagger/Hilt, Coroutines, testing, and Retrofit). Currently, I'm expanding my skillset in Flutter.
+Hi, my name is Marlon and I'm 33 years old. Recently, my focus and latest certifications have been on native Android development (Jetpack Compose, MVVM, Dagger/Hilt, Coroutines, testing, and Retrofit), and I'm currently studying Flutter & Dart for hybrid mobile development.
 
 <div style="display: inline_block"><br>
 
