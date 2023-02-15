@@ -19,6 +19,7 @@ Hi, my name is Marlon and I'm 33 years old. Recently, my focus and latest certif
  
 #### Reach me at
  <div style="display:flex; justify-content:center;">
+<a href="https://beacons.ai/_marlon"><img src="https://img.shields.io/badge/Beacons.ai-182E50?style=for-the-badge&logo=beaconsdotai&logoColor=white" target="_blank" /></a>
   <a href="https://www.linkedin.com/in/marlonrt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:marlonribeiro@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
 
