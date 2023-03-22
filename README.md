@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=25&pause=700&color=1BC5FF&center=true&width=435&lines=Hello+there%2C+my+name+is+Marlon!;I+am+a+mobile+developer)](https://git.io/typing-svg)
 
-I am a mobile developer with 4 years of experience using Android SDK and Java, having launched my first application in 2019. Additionally, in the past year, I have been seeking to deepen my knowledge in Kotlin and also in hybrid development using Flutter, with a focus on expanding my skill set while specializing in mobile development.
+I am a Back-End Developer with 4 years of experience using Android SDK and Java, having launched my first application in 2019. Additionally, in the past year, I have been seeking to deepen my knowledge in Kotlin and also in hybrid development using Flutter, with a focus on expanding my skill set while specializing in mobile development.
 
 <div style="display: inline_block"><br>
 
