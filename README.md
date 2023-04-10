@@ -1,6 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=25&pause=700&color=1BC5FF&center=true&width=435&lines=Hello+there%2C+my+name+is+Marlon!;I+am+a+mobile+developer)](https://git.io/typing-svg)
 
-I am a Back-End Developer with 4 years of experience using Android SDK and Java, having launched my first application in 2019. Additionally, in the past year, I have been seeking to deepen my knowledge in Kotlin and also in hybrid development using Flutter, with a focus on expanding my skill set while specializing in mobile development.
+Olá e seja bem-vindo ao meu perfil do GitHub! Meu nome é Marlon e sou um desenvolvedor Back-End com experiência em Educação Infantil e um forte interesse no desenvolvimento mobile.
+
+Durante 9 anos atuei na área da Educação, onde participei de Projetos de Extensão para Letramento e Educação Ambiental em escolas municipais e no Programa de Erradicação do Trabalho Infantil (PETI), como bolsista pela Universidade Federal do Paraná, também trabalhei como Servidor Público Municipal lotado na Secretaria de Educação. Experiências ricas que me proporcionaram uma visão ampla do desenvolvimento infantil.
+
+Em 2018, decidi mudar para a área de T.I. e comecei a desenvolver jogos mobile com Java. Meu primeiro jogo foi lançado no Google Play em 2019 e desde então, venho desenvolvendo jogos e aplicações em outras linguagens, como Kotlin e Flutter. Tenho sempre buscado me aprimorar nas áreas de Java, Angular e Flutter, além de HTML e CSS. Atualmente, estou cursando a Trilha de Treinamento CapGemini, com +300 horas de estudos FullStack (Javascript, Angular, Java, HTML, CSS) e outras +100h com o excepcional Tim Buchalka na formação Java 17 Programming Masterclass. 
+
+Além da minha experiência em programação, sou proficiente em inglês, com certificação C2 em Writing e C1 em Listening. No meu tempo livre, gosto de tocar violão e piano, testar ideias de jogos e passar tempo com minha família. Sou pai de uma princesa linda.
+
+Acredito que mais importante do que ter em mente a obra pronta, é enxergar onde cada tijolo se encaixa. Esse tipo de pensamento me faz estar sempre em busca de novos desafios e oportunidades para crescer profissionalmente e aprimorar minhas habilidades.
 
 <div style="display: inline_block"><br>
 
