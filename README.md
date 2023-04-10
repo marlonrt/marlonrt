@@ -6,10 +6,6 @@ Durante 9 anos atuei na área da Educação, onde participei de Projetos de Exte
 
 Em 2018, decidi mudar para a área de T.I. e comecei a desenvolver jogos mobile com Java. Meu primeiro jogo foi lançado no Google Play em 2019 e desde então, venho desenvolvendo jogos e aplicações em outras linguagens, como Kotlin e Flutter. Tenho sempre buscado me aprimorar nas áreas de Java, Angular e Flutter, além de HTML e CSS. Atualmente, estou cursando a Trilha de Treinamento CapGemini, com +300 horas de estudos FullStack (Javascript, Angular, Java, HTML, CSS) e outras +100h com o excepcional Tim Buchalka na formação Java 17 Programming Masterclass. 
 
-Além da minha experiência em programação, sou proficiente em inglês, com certificação C2 em Writing e C1 em Listening. No meu tempo livre, gosto de tocar violão e piano, testar ideias de jogos e passar tempo com minha família. Sou pai de uma princesa linda.
-
-Acredito que mais importante do que ter em mente a obra pronta, é enxergar onde cada tijolo se encaixa. Esse tipo de pensamento me faz estar sempre em busca de novos desafios e oportunidades para crescer profissionalmente e aprimorar minhas habilidades.
-
 <div style="display: inline_block"><br>
 
 #### Main skills:
