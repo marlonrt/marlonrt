@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=25&pause=700&color=1BC5FF&center=true&width=435&lines=Hello+there%2C+my+name+is+Marlon!;I+am+a+mobile+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem-vindo%2C+eu+me+chamo+Marlon.)](https://git.io/typing-svg)
 
-Olá e seja bem-vindo ao meu perfil do GitHub! Meu nome é Marlon e sou um desenvolvedor Back-End com experiência em Educação Infantil e um forte interesse no desenvolvimento mobile.
+Meu nome é Marlon e sou um desenvolvedor Back-End com experiência em Educação Infantil e um forte interesse no desenvolvimento mobile.
 
 Durante 9 anos atuei na área da Educação, onde participei de Projetos de Extensão para Letramento e Educação Ambiental em escolas municipais e no Programa de Erradicação do Trabalho Infantil (PETI), como bolsista pela Universidade Federal do Paraná, também trabalhei como Servidor Público Municipal lotado na Secretaria de Educação. Experiências ricas que me proporcionaram uma visão ampla do desenvolvimento infantil.
 
