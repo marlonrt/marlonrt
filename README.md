@@ -4,7 +4,7 @@ Sou um desenvolvedor Back-End com experiência em Educação Infantil e um forte
 
 Durante 9 anos atuei na área da Educação, onde participei de Projetos de Extensão para Letramento e Educação Ambiental em escolas municipais e no Programa de Erradicação do Trabalho Infantil (PETI), como bolsista pela Universidade Federal do Paraná, também trabalhei como Servidor Público Municipal lotado na Secretaria de Educação. Experiências ricas que me proporcionaram uma visão ampla do desenvolvimento infantil.
 
-Em 2018, decidi mudar para a área de T.I. e comecei a desenvolver jogos mobile com Java. Meu primeiro jogo foi lançado no Google Play em 2019 e desde então, venho desenvolvendo jogos e aplicações em outras linguagens, como Kotlin e Flutter. Tenho sempre buscado me aprimorar nas áreas de Java, Angular e Flutter, além de HTML e CSS. Atualmente, estou cursando a Trilha de Treinamento CapGemini, com +300 horas de estudos FullStack (Javascript, Angular, Java, HTML, CSS) e outras +100h com o excepcional Tim Buchalka na formação Java 17 Programming Masterclass. 
+Em 2018, decidi mudar para a área de T.I. e comecei a desenvolver jogos mobile com Java. Meu primeiro jogo foi lançado no Google Play em 2019 e desde então, venho desenvolvendo jogos e aplicações, web e mobile.
 
 <div style="display: inline_block"><br>
 
