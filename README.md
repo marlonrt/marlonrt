@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem-vindo%2C+eu+me+chamo+Marlon.)](https://git.io/typing-svg)
 
-Olá, meu nome é Marlon e sou um desenvolvedor com experiência em diversas áreas da programação. Anteriormente, trabalhei por 9 anos na área de Educação Infantil, onde participei de Programas de Extensão na Universidade Federal do Paraná, focados em Letramento e Educação Ambiental em escolas municipais. Também atuei como servidor público na Secretaria de Educação, desempenhando a função de Auxiliar de Desenvolvimento Infantil até o ano de 2018.
+Olá, meu nome é Marlon e sou um desenvolvedor com experiência em diversas áreas da programação. Anteriormente, trabalhei por 9 anos na área de Educação Infantil, onde participei de Programas de Extensão na Universidade Federal do Paraná, focados em Letramento e Educação Ambiental em escolas municipais. Também atuei como servidor público na Secretaria de Educação, desempenhando a função de Auxiliar de Desenvolvimento Infantil até o ano de 2018. Meu primeiro contato com um PC foi em 1994 usando Pentium i586, eu tinha 5 anos, minha mãe fazia "computação" e me ensinava a instalar jogos do disquete via MS-DOS.
 
-Nos últimos anos, tenho me dedicado ao desenvolvimento e publicação de aplicações e jogos web/mobile em diferentes linguagens. Minha experiência abrange desde a criação de APIs e lógica de negócio no backend até a implementação de interfaces interativas no frontend.
+Nos últimos anos, tenho me dedicado ao desenvolvimento e publicação de aplicações e jogos web/mobile em diferentes linguagens. Tenho conhecimentos em API, CRUD, Versionamento Git, jQuery, Bootstrap, Android SDK, AdMob, entre outras tecnologias que utilizo para criar soluções eficientes e bem estruturadas. 
 
-Tenho conhecimentos em API, CRUD, Versionamento Git, jQuery, Bootstrap, HTML, CSS, Android SDK, AdMob, entre outras tecnologias que utilizo para criar soluções eficientes e bem estruturadas. Sempre estou em busca de novos desafios e oportunidades para crescer profissionalmente e aprimorar minhas habilidades.
-
-Além da minha experiência em programação, possuo proficiência em inglês, com certificações C2 em Writing e C1 em Listening. No meu tempo livre, gosto de tocar violão e piano, testar ideias de jogos e passar tempo com minha família. Sou pai de uma linda princesa.
+Além da minha experiência em programação, possuo proficiência em inglês, com certificações C2 em Writing e C1 em Listening. No meu tempo livre, gosto de tocar violão, piano, testar ideias e passar tempo com minha família. Sou pai de uma linda princesa.
 
 Estou em busca da minha primeira oportunidade para evoluir profissionalmente.
 
