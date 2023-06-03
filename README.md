@@ -27,7 +27,7 @@ Estou em busca da minha primeira oportunidade para evoluir profissionalmente.
  
 #### Reach me at
  <div style="display:flex; justify-content:center;">
-<a href="https://marlonrt.github.io/portfolio/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /></a>
+<a href="https://marlonrt.github.io/marlonribeiro/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /></a>
   <a href="https://www.linkedin.com/in/marlonrt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:marlonribeiro@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
 
