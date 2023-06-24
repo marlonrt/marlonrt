@@ -25,7 +25,7 @@ incluem React (Next.js), Javascript, Typescript, HTML, CSS, Bootstrap e outras.
  
 #### Reach me at
  <div style="display:flex; justify-content:center;">
-<a href="https://marlonrt.github.io/marlonribeiro/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /></a>
+<a href="https://marlonribeiro.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /></a>
   <a href="https://www.linkedin.com/in/marlonrt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:marlonribeirot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
