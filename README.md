@@ -1,25 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem-vindo%2C+eu+me+chamo+Marlon.)](https://git.io/typing-svg)
 
-Olá, meu nome é Marlon e sou um desenvolvedor com experiência em diversas áreas da programação. Anteriormente, trabalhei por 9 anos na área de Educação Infantil, onde participei de Programas de Extensão na Universidade Federal do Paraná, focados em Letramento e Educação Ambiental em escolas municipais. Também atuei como servidor público na Secretaria de Educação, desempenhando a função de Auxiliar de Desenvolvimento Infantil até o ano de 2018. Meu primeiro contato com um PC foi em 1994 usando Pentium i586, eu tinha 5 anos, minha mãe fazia "computação" e me ensinava a instalar jogos do disquete via MS-DOS.
+Olá, tenho 34 anos e sou graduando de Tecnologia em Análise e Desenvolvimento de Sistemas. Fui
+funcionário público, mais especificamente secretário escolar até o ano de 2018, de onde fiz transição de
+carreira para desenvolvimento de jogos mobile em android nativo e atualmente atuo como desenvolvedor
+freelancer. No último ano venho aprimorando minhas habilidades no front-end e minhas especialidades
+incluem React (Next.js), Javascript, Typescript, HTML, CSS, Bootstrap, outras.
 
-Nos últimos anos, tenho me dedicado ao desenvolvimento e publicação de aplicações e jogos web/mobile em diferentes linguagens. Tenho conhecimentos em API, CRUD, Versionamento Git, jQuery, Bootstrap, Android SDK, AdMob, entre outras tecnologias que utilizo para criar soluções eficientes e bem estruturadas. 
-
-Além da minha experiência em programação, possuo proficiência em inglês, com certificações C2 em Writing e C1 em Listening. No meu tempo livre, gosto de tocar violão, piano, testar ideias e passar tempo com minha família. Sou pai de uma linda princesa.
-
-Estou em busca da minha primeira oportunidade para evoluir profissionalmente.
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
 #### Main skills:
 
-<img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-<img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-<img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-<img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+<img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img align="center" alt="Next.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+<img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+<img align="center" alt="Flutter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 
 </div>
 
