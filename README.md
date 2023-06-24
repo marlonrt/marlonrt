@@ -35,13 +35,8 @@ incluem React (Next.js), Javascript, Typescript, HTML, CSS, Bootstrap, outras.
 
 </div>
 
-
-
-
-
-
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonrt&show_icons=true&theme=holi&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1BC5FFFF&height=120&section=footer"/>
 
