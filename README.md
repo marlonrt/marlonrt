@@ -4,7 +4,7 @@ Olá, tenho 34 anos e sou graduando de Tecnologia em Análise e Desenvolvimento 
 funcionário público, mais especificamente secretário escolar até o ano de 2018, de onde fiz transição de
 carreira para desenvolvimento de jogos mobile em android nativo e atualmente atuo como desenvolvedor
 freelancer. No último ano venho aprimorando minhas habilidades no front-end e minhas especialidades
-incluem React (Next.js), Javascript, Typescript, HTML, CSS, Bootstrap, outras.
+incluem React (Next.js), Javascript, Typescript, HTML, CSS, Bootstrap e outras.
 
 <div style="display: inline_block">
 
