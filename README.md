@@ -33,11 +33,6 @@ incluem React (Next.js), Javascript, Typescript, HTML, CSS, Bootstrap e outras.
   <a href="https://play.google.com/store/apps/dev?id=5395694286852523356"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a>
   <a href="https://store.steampowered.com/app/1957100/Natal_Perdido/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
-</div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonrt&show_icons=true&theme=holi&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1BC5FFFF&height=120&section=footer"/>
 
 
