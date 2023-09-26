@@ -2,7 +2,7 @@
 
 Olá! Sou o Marlon, tenho 34 anos e sou um profissional da área de Tecnologia da Informação. Minha jornada teve início em 2018, quando lancei meu primeiro jogo no Google Play / Steam. Comecei cursando Análise e Desenvolvimento de Sistemas e atuei como desenvolvedor web freelancer até me envolver com Analytics, Big Data e migrar para Ciência de Dados.
 
-Tenho experiência com Python, Java, JS, SQL, NoSQL, Pandas, NumPy, Scikit-Learn, Matplotlib.
+Tenho experiência com Python, Java, JS, SQL, Pandas, NumPy, Scikit-Learn, Matplotlib.
 No meu tempo livre gosto de participar de competições de imagens geradas por IA, curtir a família e fuçar em novas ferramentas de inteligência artificial.
 
 <div style="display: inline_block">
