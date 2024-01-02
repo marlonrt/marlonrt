@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem-vindo%2C+eu+me+chamo+Marlon.)](https://git.io/typing-svg)
 
-Olá! Sou o Marlon, tenho 34 anos e sou um profissional da área de Tecnologia da Informação. Minha jornada teve início em 2018, quando lancei meu primeiro jogo no Google Play / Steam. Comecei cursando Análise e Desenvolvimento de Sistemas e atuei como desenvolvedor web freelancer até me envolver com Analytics, Big Data e migrar para Ciência de Dados.
-
-Tenho experiência com Python, Java, JS, SQL, Pandas, NumPy, Scikit-Learn, Matplotlib.
-No meu tempo livre gosto de participar de competições de imagens geradas por IA, curtir a família e fuçar em novas ferramentas de inteligência artificial.
+Olá, tenho 34 anos e sou graduando de Tecnologia em Ciência de Dados. Fui funcionário público, mais especificamente secretário escolar até o ano de 2018, de onde fiz transição de carreira para desenvolvimento de jogos mobile em android nativo e atualmente atuo como desenvolvedor freelancer. No último ano venho aprimorando minhas habilidades no front-end.
 
 <div style="display: inline_block">
 
