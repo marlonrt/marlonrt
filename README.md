@@ -1,27 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem-vindo%2C+eu+me+chamo+Marlon.)](https://git.io/typing-svg)
+Hi, my name is Marlon, I'm 34 years old, a family man, and currently pursuing a degree in Data Science.
 
-Olá, tenho 34 anos e sou graduando de Tecnologia em Ciência de Dados. Fui funcionário público, mais especificamente secretário escolar até o ano de 2018, de onde fiz transição de carreira para desenvolvimento de jogos mobile em android nativo e atualmente atuo como desenvolvedor freelancer. No último ano venho aprimorando minhas habilidades no front-end.
+I'm a Python enthusiast, having developed apps with JavaScript, HTML, and CSS. I'm also proficient in Java and Flutter. I've worked with Data Analysis libraries like Pandas, NumPy, Matplotlib, and Scikit-Learn. Additionally, I've freelanced in web development using React and NextJS.
+
+Currently, I'm exploring the world of Chatbot development, integrating Dialogflow, OpenAI, GPT, DALL-E, and FastAPI. In my free time, I develop games with Ren'Py and have released some on Steam and Google Play using RPG Maker MV.
 
 <div style="display: inline_block">
-
-#### Main skills:
-
-<img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="TYPESCRIPT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img align="center" alt="SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-<img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-<img align="center" alt="REACT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-
 
 </div>
 
  ## 
  
 #### Reach me at
- <div style="display:flex; justify-content:center;">
-<a href="https://www.notion.so/Marlon-Ribeiro-Notion-bb2a0ec1fc984935acd6f8d290944848?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank" /></a>
   <a href="https://www.linkedin.com/in/marlonrt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:marlonribeirot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
